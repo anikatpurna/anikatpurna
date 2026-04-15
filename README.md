@@ -18,7 +18,7 @@ and what happens when it doesn't.
 - Decision tree classifier to predict recommendation behavior
 - Interactive Rating vs. Sentiment dashboard with CSV export
 
-[View the project →](github.com/anikatpurna/customer-review-analysis)
+[View the project →](https://github.com/anikatpurna/customer-review-analysis)
 
 ---
 
