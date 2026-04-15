@@ -1,7 +1,7 @@
 # Hi, I'm Anika Tabassum
 
-Data Science student at the University of Redlands, California.
-I work at the intersection of data, language, and decision-making —
+Data Science and Business Administration student at the University of Redlands, California.
+I work at the intersection of data, language, and decision-making,
 turning messy customer feedback into tools that actually get used.
 
 ---
